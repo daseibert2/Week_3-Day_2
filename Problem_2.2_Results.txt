@@ -1,0 +1,16 @@
+Problem 2.2
+
+
+Input number of decimal places to round to: 5
+
+
+X:              -722.652470
+
+
+Y:              356.290744
+
+
+Rounded X:              -722.65247
+
+
+Rounded Y:              356.29077

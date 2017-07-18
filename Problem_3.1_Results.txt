@@ -1,0 +1,5 @@
+Sum:    692375748
+
+50th Fibonacci Number:  4255709843586350
+
+15 Factorial:   1307674368000

@@ -1,0 +1,9 @@
+Problem 2.1
+
+Input number to be rounded: 2.3456543
+
+Original Number:        2.345654
+
+Rounded Number:         2.35
+
+Error:                  0.004346
